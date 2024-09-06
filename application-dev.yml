@@ -1,5 +1,6 @@
-servlet:
-    context-path: Dev
+spring:
+    application:
+      name: dev
 eureka:
   instance:
     prefer-ip-address: true
