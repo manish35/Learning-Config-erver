@@ -1,6 +1,5 @@
-spring:
-    application:
-      name: Config-default
+servlet:
+    context-path: Config-default
 eureka:
   instance:
     prefer-ip-address: true
